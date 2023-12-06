@@ -1,0 +1,47 @@
+[
+  {
+      "id" : 0,
+      "Cityname": "Newyork City",
+      "FemaleCount": 120000,
+      "MaleCount": 110000,
+      "Minors(Under_8)": 45000,
+      "Majors(18_and_above)": 185000,
+      "PopulationIndex": 78.4
+  },
+  {
+      "id" : 1,
+      "Cityname": "Chicago",
+      "FemaleCount":90000,
+      "MaleCount": 130000,
+      "Minors(Under_18)": 30000,
+      "Majors(18_and_above)": 190000,
+      "PopulationIndex": 82.1
+  },
+  {
+      "id" : 2,
+      "Cityname": "Houston",
+      "FemaleCount": 80000,
+      "MaleCount": 85000,
+      "Minors(Under_18)": 25000,
+      "Majors(18_and_above)": 140000,
+      "PopulationIndex": 76.8
+  },
+  {
+      "id" : 3,
+      "Cityname": "Phoenix",
+      "FemaleCount": 150000,
+      "MaleCount": 140000,
+      "Minors(Under_18)": 50000,
+      "Majors(18_and_above)": 240000,
+      "PopulationIndex": 84.3
+  },
+    {
+      "id" : 4,
+      "Cityname": "San Francisco",
+      "FemaleCount": 110000,
+      "MaleCount": 100000,
+      "Minors(Under_18)": 35000,
+      "Majors(18_and_above)": 175000,
+      "PopulationIndex": 79.6
+  }
+  ]
